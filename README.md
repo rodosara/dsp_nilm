@@ -7,6 +7,5 @@ VERSIONE 0 - Il codice caricato corrisponde a quello utilizzato nel lavoro di te
 Il codice è abbondatemente commentato e suddiviso in file secondo le varie parti dell'algoritmo. A breve intendo caricare una nuova versione: allegando con una piccola guida sull'utilizzo dei vari file, incrementando i commenti e le spiegazioni delle varie parti di codice, così da facilitarne la comprensione e l'utilizzo.
 
 Good luck! ;)
-
                                                                                                               Rodolfo Saraceni
                                                                                                             rodo.sara@gmail.com
